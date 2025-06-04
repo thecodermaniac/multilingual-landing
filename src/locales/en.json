@@ -1,5 +1,51 @@
 {
-  "welcome": "Welcome to Our Website",
-  "description": "We offer amazing services just for you.",
-  "language": "Language"
+  "navbar": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About"
+  },
+  "welcome": "Lessons and insights from 8 years",
+  "description": "Where to grow your business as a photographer: site or social media?",
+  "cta": "Register",
+  "clients": "Our Clients",
+  "feature1.title": "Membership Organisations",
+  "feature1.desc": "Our membership management software provides full automation.",
+  "feature2.title": "National Associations",
+  "feature2.desc": "Reduce costs and save time without manual tracking.",
+  "feature3.title": "Clubs And Groups",
+  "feature3.desc": "Manage your community and communication effortlessly.",
+  "stats.users": "Users",
+  "stats.customers": "Customers",
+  "stats.downloads": "Downloads",
+  "stats.revenue": "Revenue",
+  "testimonial.quote": "The unseen of spending three years at Pixelgrade",
+  "testimonial.author": "Pixelgrade Team",
+  "blog.title": "Latest Blog Posts",
+  "blog.card1": "Caring is the new marketing",
+  "blog.card2": "How to design your site footer like we did",
+  "blog.card3": "Creating Streamlined Safeguarding Processes with OneRen",
+  "footer": {
+    "copyright": "Copyright © 2020 Landify UI Kit. All rights reserved",
+    "company": {
+      "title": "Company",
+      "about": "About us",
+      "blog": "Blog",
+      "contact": "Contact us",
+      "pricing": "Pricing",
+      "testimonials": "Testimonials"
+    },
+    "support": {
+      "title": "Support",
+      "help": "Help center",
+      "terms": "Terms of service",
+      "legal": "Legal",
+      "privacy": "Privacy policy",
+      "status": "Status"
+    },
+    "subscribe": {
+      "title": "Stay up to date",
+      "placeholder": "Your email address"
+    }
+  }
 }
