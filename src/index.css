@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  transition: font-family 0.3s ease;
+}
+
+/* Font classes */
+body.en {
+  font-family: "Noto Sans", sans-serif;
+}
+body.hi,
+body.mr {
+  font-family: "Noto Sans Devanagari", sans-serif;
+}
+body.ta {
+  font-family: "Noto Sans Tamil", sans-serif;
+}
+body.te {
+  font-family: "Noto Sans Telugu", sans-serif;
+}
