@@ -322,7 +322,7 @@ button {
   }
 
   .card {
-    width: fit-content;
+    width: auto;
   }
   .card img {
     height: auto;
@@ -341,7 +341,7 @@ button {
   }
 
   .footer-subscribe {
-    width: 100%;
+    max-width: 100%;
   }
 
   .subscribe-box {
