@@ -1,14 +1,13 @@
 import React from 'react';
 import './i18n';
 import './index.css';
-import Navbar from './components/Navbar';
-import LandingPage from './components/LandingPage';
+// import Navbar from './components/Navbar';
+import Login from './components/Login';
 
 function App() {
   return (
     <div className="app">
-      <Navbar />
-      <LandingPage />
+      <Login />
     </div>
   );
 }
